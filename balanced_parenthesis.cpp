@@ -1,2 +1,2 @@
-# Display the output
+// Display the output
 cout<<"New c++ file";
